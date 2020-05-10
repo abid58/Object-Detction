@@ -1,5 +1,5 @@
-# Object-Detction ECE498SMA SP2020 Final Project
-Improved Object Detection in Crowded Traffic Scenes. We tried to implement paper 1, although it became more like statndard YOLO in paper 2. 
+# Object-Detction using YOLO algorithm
+YOLO is a single-shot detector (SSD)-type object detection algorthm. It is significantly faster than two-shot detectors like mask-RNN, compromising very little accuracy. 
 
 
 ## Paper 1:
